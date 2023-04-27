@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Kelechi Owen Nduka</h1>
 <h3 align="center">An enthusiastic data analyst from Cameroonian</h3>
-img align="right" alt="Analysis" width="400" src="https://dribbble.com/shots/4012238-Data-Analytics-Animation"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinowens90&label=Profile%20views&color=0e75b6&style=flat" alt="kevinowens90" /> </p>
 
