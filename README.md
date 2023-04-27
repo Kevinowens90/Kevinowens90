@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Kelechi Owen Nduka</h1>
+<h1 align="center">Hi 👋, I'm Kelechi Owen</h1>
 <h3 align="center">An enthusiastic data analyst from Cameroonian</h3>
 
 
